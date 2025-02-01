@@ -15,7 +15,7 @@ Notification:Notify(
 wait(4.5)
 
 -- Copy the description to clipboard after 4.5 seconds
-setclipboard("https://discord.gg/dmBzVaRrD3")
+setclipboard("https://discord.gg/V2z6bhpvMU")
 
 local player = game.Players.LocalPlayer
 local folder = game.Workspace.Memes
